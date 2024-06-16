@@ -14,7 +14,7 @@ Writing code of some sort since 2012
 - C++
 - C
 - C#
-- JavaScript
+- TypeScript/JavaScript
 - SQL
 - Java
 - Lua
