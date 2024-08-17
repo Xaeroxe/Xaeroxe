@@ -4,6 +4,7 @@
 Writing code of some sort since 2012
 
 ## Fields
+- Cloud
 - Embedded
 - Desktop
 - Some Web
